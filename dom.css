@@ -1,0 +1,38 @@
+
+      
+        th {
+            font-weight:bold;
+            font-family: sans-serif;
+            border-style: solid ;
+
+        }
+        tr{
+            border: solid;
+        }
+
+        td{
+            padding: 10px;
+            border-style: solid;
+        }
+
+        body{
+            background-color: #F7B05B;
+        }
+
+.button{
+    height: 36px;
+    background-color: #720E07;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #F7934C;
+}  #options{
+
+    color:#F7934C ;
+    background-color: #720E07;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
